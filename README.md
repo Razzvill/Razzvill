@@ -15,7 +15,7 @@
 ![Gradle Badge](https://img.shields.io/badge/Gradle-%2302303A?style=flat-square&logo=gradle&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
-https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white
+![Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
 
 
 <!--
