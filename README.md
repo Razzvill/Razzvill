@@ -21,10 +21,12 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Gradle Badge](https://img.shields.io/badge/Gradle-%2302303A?style=flat-square&logo=gradle&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
+![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white)
+![Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
 <br>
 ![GitHub Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
-![Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
+![Figma Badge](https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&logoColor=white)
+
 
 
 <!--
