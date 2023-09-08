@@ -1,8 +1,10 @@
 ### Hello World! I'm Seokchan Kang 👋
 
+![Gmail Badge](https://img.shields.io/badge/Gmail-ksc2562%40gmail.com-blue)
+
 #Programming Language
 
-![Gmail Badge](https://img.shields.io/badge/Email-ksc2562%40gmail.com-blue)
+
 
 <!--
 **Razzvill/Razzvill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
