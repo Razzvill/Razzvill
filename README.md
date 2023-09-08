@@ -4,9 +4,9 @@
 
 
 
-## STACKS
+## 📚 STACKS
 
-#### Programming Language
+#### 💻 Programming Language
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -14,10 +14,10 @@
 ![JQuery Badge](https://img.shields.io/badge/JQuery-%230769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-#### Database
+#### 🗂 Database
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### Tools
+#### 🔧 Tools
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Gradle Badge](https://img.shields.io/badge/Gradle-%2302303A?style=flat-square&logo=gradle&logoColor=white)
