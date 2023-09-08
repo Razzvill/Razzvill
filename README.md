@@ -1,4 +1,4 @@
-### Hello World! I'm Seokchan Kang 👋
+# Hello World! I'm Seokchan Kang 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-ksc2562@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksc2562@gmail.com)](mailto:ksc2562@gmail.com)
 
