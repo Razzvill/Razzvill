@@ -1,6 +1,7 @@
 ### Hello World! I'm Seokchan Kang 👋
 
-![Gmail Badge](https://img.shields.io/badge/Gmail-ksc2562%40gmail.com-blue)
+![Static Badge](https://img.shields.io/badge/ksc2562%40gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&color=%23EA4335&link=mailto:ksc2562%40gmail.com)
+
 
 #Programming Language
 
