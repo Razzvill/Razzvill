@@ -21,7 +21,7 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Gradle Badge](https://img.shields.io/badge/Gradle-%2302303A?style=flat-square&logo=gradle&logoColor=white)
-![eclipseide](https://img.shields.io/badge/eclipse IDE-%2C2255?style=flat-square&logo=gradle&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Tomcat Badge](https://img.shields.io/badge/Apache_Tomcat-%23F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
 <br>
